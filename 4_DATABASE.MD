@@ -1,0 +1,33 @@
+Database
+===============================================================
+- What is the database?
+- What is relational and nonrelational database?
+- What is MongoDB?
+- What are the different types of database?
+- Features offered by MongoDB?
+- MongoDb have concept of primary key and foreign key?
+- What is JSON and BSON?
+- What are the documents and collections in mongo database?
+- What are the transactions in database? Define its state (initialization, commit, rollback)
+- Define key constraints - Primary key, Foreign key, unique key, and Candidate key
+- What are joins in database?
+- What is ORM?
+- Find nth top salary of employee from employee table?
+- What is DB Cursor and DB profiler?
+- Diff B/W truncate and delete?
+- What is stored procedure and database triggers?
+- What is Normalization?
+- What is aggregation function?
+- Diff B/W having and where clause?
+- Diff B/W PostgreSql and MySQL?
+- In which case, which database we need to prefer - MongoDB, MySQL, PostgreSQL?
+- What is indexes in database? What are its types (Cluster and non Cluster Index)
+- Did you use sequelize or mongoose?
+- Why we use LOCK in sql queries?
+- What is eager loading and lazy loading.
+- What are associations in ORM?
+- What are ACID (Atomicity, Consistency, Isolation, Durability) properties in database and how to achieve it.
+- What is CAP (Consistency, Availability, Partition Tolerance) in MongoDB?
+- What is View in database?
+- What is Portioning in database? Do you implemented it in any of your projects?
+- Whats the port of mysql, postgreSql, sql server, Redis and MongoDB?

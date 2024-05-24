@@ -1,0 +1,53 @@
+React JS
+===============================================================
+- What is React JS?
+- What is virtual DOM and Why we need it?
+- How Virtual DOM Works behind the scene?
+- What are the components in React JS?
+- What practices we should follow while working with React, As react is not full blown framework. So to keep the code clean what standard we need to follow?
+- What are keys in React JS and Whats the importance of it?
+- Whats is JSX in react js?
+- Whats the difference between functional and class components?
+- What is controlled and uncontrolled components in React JS?
+- Why Can't browser read JSX directly?
+- What is State in React JS?
+- What is Props in React JS?
+- How can we pass data in React JS from parent component to child component and vice versa?
+- What is component composition?
+- What is the principle of lifting up state?
+- What are the different phases of component life cycle?
+- What are different life cycle methods in class components?
+- Suppose we pass the callback function from parent to child class based component and triggering that function from child. Before triggering and accepting as prop in child component, Do we need to bind the method with child component?
+- How did you maintain lifecycle methods in functional component in react js?
+- What is prop drilling in react js and how we can avoid that?
+- What are render props in react js?
+- What is refs in react js and whats the use of it?
+- What are higher order components in react JS?
+- How can we manage the forms in react js?
+- What are the pure components?
+- What is error boundary in react js?
+- What is strict mode in react js and why it is necessary?
+- What are React hooks? tell me all about all types of react hook that you have used?
+- What are the different ways to optimize you react application?
+- Difference between useMemo, memo and useCallback?
+- How to execute the piece of code in React functional component when unmounting it?
+- What are the difference ways to style react application?
+- What is React router and what are its components (BrowserRouter, Routes, Route, Link)?
+- What is Redux and what principle it follows (single source of truth, predictable state container, state is read only, changes are made through the help of pure functions only i.e. reducer)?
+- Can React useReducer hook replace redux?
+- What is the difference between angular and react js?
+- What are the components of redux (Store, View, Reducer, Action)?
+- What are the advantages of using Redux?
+- What is Single page application?
+- What is Redux toolkit, Have you work with that?
+- What is storybook? Do have experience with that?
+- Do you have use any of other store instead of redux in your react applications?
+- What is Context in react js? how the components can consume context?
+- Difference between redux and context? Which one we should use in what cases?
+- What is redux middleware?
+- What is Redux Thunk?
+- What is Redux Saga?
+- What are generator functions in javascript?
+- Which one is better for your application - Redux saga or thunk? How will you decide?
+- What is reconciliation process in react js?
+- Whats the purpose of diffing algorithm in reconciliation process?

@@ -1,0 +1,37 @@
+Node JS
+===============================================================
+- What is Node JS?
+- How Node JS works?
+- Is Node JS single threaded?
+- Diff B/W authorization and authentication
+- What is CORS?
+- Why we need package.json file in node js project?
+- What is module in Node js and what are its types?
+- What is event emitter?
+- What is Socket.io?
+- What are streams in node js?
+- What is Express JS. How can we use express to create server?
+- What is the use of NEXT() function in JS?
+- Diff B/W Shallow Copy and Deep Copy?
+- What is caching?
+- what are web services?
+- Types of web services - REST and SOAP?
+- What is REST API what are it's principles?
+- What is SOAP service?
+- What are worker threads?
+- Diff B/W Abstract Class and interface?
+- How can we build rest api in node js project?
+- Define HTTP methods with its work like GET, POST, PUT, PATCH, DELETE.
+- what security practices we should be follow during building rest api using node js and express js?
+- What is middleware in Node js?
+- Whats the difference between NVM and NPM?
+- What's the difference between peer dependencies and dev dependencies?
+- How node js app interlock dependencies in you project?
+- Id it good practice to keep carrot symbol in your package.json file?
+- DO you have experience with REDIS? For what purpose you have used redis?
+- What is queue in node js?
+- Do you have experience with any kind of queue worker methodology?
+- Did you hear about bull queue previously or used in any of your project?
+- Why we need Kafka?
+- Whats the difference between Message queue and pub sub architecture?
+- What is Encryption and What are its types (Symmetric and Asymmetric Encryption)?
