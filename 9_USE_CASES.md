@@ -54,3 +54,12 @@ executeApiCalls();
 - Do you know about socket managers, namespaces and rooms? And have experience in building a chat application?
 
 - Do you have any kind of previous experience in building games?
+
+- Design a database system for food order application with coupons. One user can login on multiple devices and able to order items from from multiple locations as the user can have multiple addresses as well.
+  ```
+  Coupons are - 
+  10% Extra Off
+  5% Off for first time users
+  5% cashback on Credit card payments
+  Buy One Get One Free
+  ```
