@@ -1,10 +1,12 @@
-// =============================== Question 1 =======================================
-// ---------------- Swap vowels with each other ---------------
+## Question 1
+```
+Swap vowels with each other
 
-
-// /* hello */
-// /* holle */
-
+/* hello */
+/* holle */
+```
+`Solution:`
+```
 const isVowelExist = (strChar) => {
   return (
     strChar === 'a' ||
@@ -45,28 +47,27 @@ const reverseStr = (str) => {
 
 console.log(reverseStr('my name is shubham gupta'))
 // my namu as shubhim gepta
+```
 
 
+## Question 2
+```
+Have a function Numeronyms(string) the letters between the first and last are replaced with
+ a number representing the number of letters omitted, such as "i18n" for "internationalization".
 
+Your program will output all combinations(array) of numeronyms. If string length is 3 or less return empty array.
 
+Numeronyms('nailed') OUTPUT: [ 'n2led', 'na2ed', 'nai2d', 'n3ed', 'na3d', 'n4d']
+output: [2,2,2,3,3,4]
 
+apple
+output: ['a2le', 'ap2e', 'a3e']
 
-// =============================== Question 2 =======================================
-
-// Have a function Numeronyms(string) the letters between the first and last are replaced with
-//  a number representing the number of letters omitted, such as "i18n" for "internationalization".
-
-// Your program will output all combinations(array) of numeronyms. If string length is 3 or less return empty array.
-
-// Numeronyms('nailed') OUTPUT: [ 'n2led', 'na2ed', 'nai2d', 'n3ed', 'na3d', 'n4d']
-// output: [2,2,2,3,3,4]
-
-// apple
-// output: ['a2le', 'ap2e', 'a3e']
-
-// cat
-// output: []
-
+cat
+output: []
+```
+`Solution:`
+```
 const fun = (str) => {
     let arr = []
     if(str.length <= 3) {
@@ -88,9 +89,11 @@ const fun = (str) => {
 }
 
 console.log(fun("nailed"))
+```
 
 
-// =============================== Question 3 =======================================
+## Question 3
+```
 const a = [];
 let i = 0;
 setTimeout(() => {
@@ -107,11 +110,16 @@ console.log(a);
 console.timeEnd();
 
 const arr = [[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]
+```
 
 
-// =============================== Question 4 =======================================
-// Valid Parentheses: Given a string containing just the characters 
-// '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+## Question 4
+```
+Valid Parentheses: Given a string containing just the characters 
+'(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+```
+`Solution:`
+```
 function isValid(s) {
   const stack = [];
   for (let i = 0; i < s.length; i++) {
@@ -135,3 +143,5 @@ function isValid(s) {
   return stack.length === 0;
 }
 
+console.log(isValid("{)"))
+```
